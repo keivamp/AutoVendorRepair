@@ -1,0 +1,21 @@
+## Interface: 20501
+## Author: keivamp
+## Version: 1.1.6
+## Title: |cffcee5ffAutoVendorRepair |r
+## Notes: Auto Vendors greys and repairs.
+## X-Copyright: Copyright (c) 2021 - 2022 keivamp
+## X-Author-Server: Bloodsail Buccaneers
+## X-Author-Faction: Alliance
+## X-Author-Guild: Symphony of Souls
+## X-Name: AutoVendorRepair
+## X-Website : https://twitter.com/keivamp1
+## X-Twitch : https://www.twitch.tv/kei_vamp
+## X-FaceBook : https://www.facebook.com/keivamp
+## X-Instagram : https://www.instagram.com/keivamp/
+## X-Email: keivamp@yahoo.com
+## X-License: MIT
+## X-Category: Misc
+
+
+
+core.lua
